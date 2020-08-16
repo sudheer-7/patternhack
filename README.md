@@ -1,2 +1,2 @@
-# patternhack
+# learning
 Only education purpose
